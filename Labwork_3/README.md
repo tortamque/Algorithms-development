@@ -10,6 +10,6 @@
     * ![](https://i.imgur.com/I84I4C0.png)
 
 3. Запуск тестів 
-    Щоб запустити тести оберіть Testing -> Run tests
+    * Щоб запустити тести оберіть Testing -> Run tests
     * ![](https://i.imgur.com/Cheti45.png)
     * ![](https://i.imgur.com/sn3g9k5.png)
