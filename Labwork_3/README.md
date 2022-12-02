@@ -1,7 +1,7 @@
 # Labwork 3
 
 1. Компіляція і білд програми
-    * Запустіть windows cimmand line
+    * Запустіть windows command line
     * Скомпілюйте програму за допомгою команди ``flutter build windows``
     * Скомпільована програма буде знаходитись у папці build/windows/runner/Release/my_project_name.exe
 
