@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:my_project_name/pages/find_page.dart';
 import 'pages/view_page.dart';
 import 'pages/find_page.dart';
 import 'pages/add_page.dart';
