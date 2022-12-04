@@ -11,7 +11,7 @@
     * Скомпілюйте програму за допомогою команди ``flutter build windows``
     * Скомпільована програма буде знаходитись у папці build/windows/runner/Release/my_project_name.exe
     * Скопіюйте папку Files в папку build/windows/runner/Release (потрібно для правильно читання файлів)
-    * В результатві папка build/windows/runner/Release повинна мати такий вигляд
+    * В результаті папка build/windows/runner/Release повинна мати такий вигляд
     * ![](https://i.imgur.com/rtKs5dI.png)
     
 
