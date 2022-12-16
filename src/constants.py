@@ -1,0 +1,8 @@
+ITEMS_AMOUNT: int = 100
+MIN_VALUE: int = 2
+MAX_VALUE: int = 30
+MIN_WEIGHT: int = 1
+MAX_WEIGHT: int = 20
+
+SCOUTS_AMOUNT: int = 10
+FORAGERS_AMOUNT: int = 1
